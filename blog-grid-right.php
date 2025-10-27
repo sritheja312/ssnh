@@ -1,0 +1,481 @@
+<?php $head_title = "Blog Grid Right || Mediox || Medical & Healthcare PHP Template" ?>
+<?php $body_class="custom-cursor"?>
+<?php
+  $home = true;
+?>
+<!-- Header Here -->
+<?php require_once('parts/header/header-four.php'); ?>
+
+        <section class="page-header">
+            <div class="container-fluid">
+                <div class="page-header__inner">
+                    <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg);"></div><!-- /.page-header__bg -->
+                    <div class="container">
+                        <div class="page-header__content">
+                            <h2 class="page-header__title">Blog grid right sidebar</h2>
+                            <ul class="mediox-breadcrumb list-unstyled">
+                                <li>
+                                    <span class="mediox-breadcrumb__icon"><i class="icon-home"></i></span>
+                                    <a href="index.php">Home</a>
+                                </li>
+                                <li><span>Our Blog</span></li>
+                            </ul><!-- /.mediox-breadcrumb list-unstyled -->
+                        </div><!-- /.page-header__content -->
+                    </div><!-- /.container -->
+                </div><!-- /.page-header__inner -->
+            </div><!-- /.container-fluid -->
+        </section><!-- /.page-header -->
+
+        <section class="blog-page blog-page--grid blog-page--sidebar section-space">
+            <div class="container">
+                <div class="row gutter-y-60">
+                    <div class="col-lg-8">
+                        <div class="row gutter-y-30">
+                            <div class="col-md-6">
+                                <div class="blog-card-two wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='000ms'>
+                                    <div class="blog-card-two__image">
+                                        <img src="assets/images/blog/blog-2-1.jpg" alt="cupidatat nonproident, sunt in culpa qui official of">
+                                        <a href="blog-details-right.php" class="blog-card-two__hover">
+                                            <span class="sr-only">cupidatat nonproident, sunt in culpa qui official of</span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--1"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--2"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--3"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--4"></span>
+                                        </a><!-- /.blog-card-two-two__hover -->
+                                    </div><!-- /.blog-card-two__image -->
+                                    <div class="blog-card-two__content">
+                                        <h3 class="blog-card-two__title"><a href="blog-details-right.php">cupidatat nonproident, sunt in culpa qui official of</a></h3><!-- /.blog-card-two__title -->
+                                        <ul class="list-unstyled blog-card-two__meta">
+                                            <li>
+                                                <a href="#">
+                                                    <span class="blog-card-two__meta__icon">
+                                                        <i class="icon-user"></i>
+                                                    </span>
+                                                    by Admin
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="blog-card-two__meta__icon">
+                                                        <i class="icon-comments"></i>
+                                                    </span>
+                                                    2 Comments
+                                                </a>
+                                            </li>
+                                        </ul><!-- /.list-unstyled blog-card-two__meta -->
+                                        <div class="blog-card-two__date">
+                                            <span class="blog-card-two__date__day">25</span>
+                                            <span class="blog-card-two__date__month">june</span>
+                                        </div><!-- /.blog-card-two__date -->
+                                    </div><!-- /.blog-card-two__content -->
+                                </div><!-- /.blog-card-two -->
+                            </div><!-- /.col-md-6 -->
+                            <div class="col-md-6">
+                                <div class="blog-card-two wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='100ms'>
+                                    <div class="blog-card-two__image">
+                                        <img src="assets/images/blog/blog-2-2.jpg" alt="Nail jelly to the hothouse wall pixel pushing c-suite">
+                                        <a href="blog-details-right.php" class="blog-card-two__hover">
+                                            <span class="sr-only">Nail jelly to the hothouse wall pixel pushing c-suite</span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--1"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--2"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--3"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--4"></span>
+                                        </a><!-- /.blog-card-two-two__hover -->
+                                    </div><!-- /.blog-card-two__image -->
+                                    <div class="blog-card-two__content">
+                                        <h3 class="blog-card-two__title"><a href="blog-details-right.php">Nail jelly to the hothouse wall pixel pushing c-suite</a></h3><!-- /.blog-card-two__title -->
+                                        <ul class="list-unstyled blog-card-two__meta">
+                                            <li>
+                                                <a href="#">
+                                                    <span class="blog-card-two__meta__icon">
+                                                        <i class="icon-user"></i>
+                                                    </span>
+                                                    by Admin
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="blog-card-two__meta__icon">
+                                                        <i class="icon-comments"></i>
+                                                    </span>
+                                                    2 Comments
+                                                </a>
+                                            </li>
+                                        </ul><!-- /.list-unstyled blog-card-two__meta -->
+                                        <div class="blog-card-two__date">
+                                            <span class="blog-card-two__date__day">25</span>
+                                            <span class="blog-card-two__date__month">june</span>
+                                        </div><!-- /.blog-card-two__date -->
+                                    </div><!-- /.blog-card-two__content -->
+                                </div><!-- /.blog-card-two -->
+                            </div><!-- /.col-md-6 -->
+                            <div class="col-md-6">
+                                <div class="blog-card-two wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='200ms'>
+                                    <div class="blog-card-two__image">
+                                        <img src="assets/images/blog/blog-2-3.jpg" alt="Copy and paste from stack overflow can you put it into">
+                                        <a href="blog-details-right.php" class="blog-card-two__hover">
+                                            <span class="sr-only">Copy and paste from stack overflow can you put it into</span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--1"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--2"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--3"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--4"></span>
+                                        </a><!-- /.blog-card-two-two__hover -->
+                                    </div><!-- /.blog-card-two__image -->
+                                    <div class="blog-card-two__content">
+                                        <h3 class="blog-card-two__title"><a href="blog-details-right.php">Copy and paste from stack overflow can you put it into</a></h3><!-- /.blog-card-two__title -->
+                                        <ul class="list-unstyled blog-card-two__meta">
+                                            <li>
+                                                <a href="#">
+                                                    <span class="blog-card-two__meta__icon">
+                                                        <i class="icon-user"></i>
+                                                    </span>
+                                                    by Admin
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="blog-card-two__meta__icon">
+                                                        <i class="icon-comments"></i>
+                                                    </span>
+                                                    2 Comments
+                                                </a>
+                                            </li>
+                                        </ul><!-- /.list-unstyled blog-card-two__meta -->
+                                        <div class="blog-card-two__date">
+                                            <span class="blog-card-two__date__day">25</span>
+                                            <span class="blog-card-two__date__month">june</span>
+                                        </div><!-- /.blog-card-two__date -->
+                                    </div><!-- /.blog-card-two__content -->
+                                </div><!-- /.blog-card-two -->
+                            </div><!-- /.col-md-6 -->
+                            <div class="col-md-6">
+                                <div class="blog-card-two wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='300ms'>
+                                    <div class="blog-card-two__image">
+                                        <img src="assets/images/blog/blog-2-4.jpg" alt="catching and not too giant, yet drink from the firehose">
+                                        <a href="blog-details-right.php" class="blog-card-two__hover">
+                                            <span class="sr-only">catching and not too giant, yet drink from the firehose</span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--1"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--2"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--3"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--4"></span>
+                                        </a><!-- /.blog-card-two-two__hover -->
+                                    </div><!-- /.blog-card-two__image -->
+                                    <div class="blog-card-two__content">
+                                        <h3 class="blog-card-two__title"><a href="blog-details-right.php">catching and not too giant, yet drink from the firehose</a></h3><!-- /.blog-card-two__title -->
+                                        <ul class="list-unstyled blog-card-two__meta">
+                                            <li>
+                                                <a href="#">
+                                                    <span class="blog-card-two__meta__icon">
+                                                        <i class="icon-user"></i>
+                                                    </span>
+                                                    by Admin
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="blog-card-two__meta__icon">
+                                                        <i class="icon-comments"></i>
+                                                    </span>
+                                                    2 Comments
+                                                </a>
+                                            </li>
+                                        </ul><!-- /.list-unstyled blog-card-two__meta -->
+                                        <div class="blog-card-two__date">
+                                            <span class="blog-card-two__date__day">25</span>
+                                            <span class="blog-card-two__date__month">june</span>
+                                        </div><!-- /.blog-card-two__date -->
+                                    </div><!-- /.blog-card-two__content -->
+                                </div><!-- /.blog-card-two -->
+                            </div><!-- /.col-md-6 -->
+                            <div class="col-md-6">
+                                <div class="blog-card-two wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='400ms'>
+                                    <div class="blog-card-two__image">
+                                        <img src="assets/images/blog/blog-2-5.jpg" alt="Big data. Are there any leftovers in the kitchen at">
+                                        <a href="blog-details-right.php" class="blog-card-two__hover">
+                                            <span class="sr-only">Big data. Are there any leftovers in the kitchen at</span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--1"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--2"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--3"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--4"></span>
+                                        </a><!-- /.blog-card-two-two__hover -->
+                                    </div><!-- /.blog-card-two__image -->
+                                    <div class="blog-card-two__content">
+                                        <h3 class="blog-card-two__title"><a href="blog-details-right.php">Big data. Are there any leftovers in the kitchen at</a></h3><!-- /.blog-card-two__title -->
+                                        <ul class="list-unstyled blog-card-two__meta">
+                                            <li>
+                                                <a href="#">
+                                                    <span class="blog-card-two__meta__icon">
+                                                        <i class="icon-user"></i>
+                                                    </span>
+                                                    by Admin
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="blog-card-two__meta__icon">
+                                                        <i class="icon-comments"></i>
+                                                    </span>
+                                                    2 Comments
+                                                </a>
+                                            </li>
+                                        </ul><!-- /.list-unstyled blog-card-two__meta -->
+                                        <div class="blog-card-two__date">
+                                            <span class="blog-card-two__date__day">25</span>
+                                            <span class="blog-card-two__date__month">june</span>
+                                        </div><!-- /.blog-card-two__date -->
+                                    </div><!-- /.blog-card-two__content -->
+                                </div><!-- /.blog-card-two -->
+                            </div><!-- /.col-md-6 -->
+                            <div class="col-md-6">
+                                <div class="blog-card-two wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='500ms'>
+                                    <div class="blog-card-two__image">
+                                        <img src="assets/images/blog/blog-2-6.jpg" alt="a simple lift and shift job going forward. Price point">
+                                        <a href="blog-details-right.php" class="blog-card-two__hover">
+                                            <span class="sr-only">a simple lift and shift job going forward. Price point</span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--1"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--2"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--3"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--4"></span>
+                                        </a><!-- /.blog-card-two-two__hover -->
+                                    </div><!-- /.blog-card-two__image -->
+                                    <div class="blog-card-two__content">
+                                        <h3 class="blog-card-two__title"><a href="blog-details-right.php">a simple lift and shift job going forward. Price point</a></h3><!-- /.blog-card-two__title -->
+                                        <ul class="list-unstyled blog-card-two__meta">
+                                            <li>
+                                                <a href="#">
+                                                    <span class="blog-card-two__meta__icon">
+                                                        <i class="icon-user"></i>
+                                                    </span>
+                                                    by Admin
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="blog-card-two__meta__icon">
+                                                        <i class="icon-comments"></i>
+                                                    </span>
+                                                    2 Comments
+                                                </a>
+                                            </li>
+                                        </ul><!-- /.list-unstyled blog-card-two__meta -->
+                                        <div class="blog-card-two__date">
+                                            <span class="blog-card-two__date__day">25</span>
+                                            <span class="blog-card-two__date__month">june</span>
+                                        </div><!-- /.blog-card-two__date -->
+                                    </div><!-- /.blog-card-two__content -->
+                                </div><!-- /.blog-card-two -->
+                            </div><!-- /.col-md-6 -->
+                            <div class="col-md-6">
+                                <div class="blog-card-two wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='600ms'>
+                                    <div class="blog-card-two__image">
+                                        <img src="assets/images/blog/blog-2-7.jpg" alt="my capacity is full we're building the plane while we">
+                                        <a href="blog-details-right.php" class="blog-card-two__hover">
+                                            <span class="sr-only">my capacity is full we're building the plane while we</span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--1"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--2"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--3"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--4"></span>
+                                        </a><!-- /.blog-card-two-two__hover -->
+                                    </div><!-- /.blog-card-two__image -->
+                                    <div class="blog-card-two__content">
+                                        <h3 class="blog-card-two__title"><a href="blog-details-right.php">my capacity is full we're building the plane while we</a></h3><!-- /.blog-card-two__title -->
+                                        <ul class="list-unstyled blog-card-two__meta">
+                                            <li>
+                                                <a href="#">
+                                                    <span class="blog-card-two__meta__icon">
+                                                        <i class="icon-user"></i>
+                                                    </span>
+                                                    by Admin
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="blog-card-two__meta__icon">
+                                                        <i class="icon-comments"></i>
+                                                    </span>
+                                                    2 Comments
+                                                </a>
+                                            </li>
+                                        </ul><!-- /.list-unstyled blog-card-two__meta -->
+                                        <div class="blog-card-two__date">
+                                            <span class="blog-card-two__date__day">25</span>
+                                            <span class="blog-card-two__date__month">june</span>
+                                        </div><!-- /.blog-card-two__date -->
+                                    </div><!-- /.blog-card-two__content -->
+                                </div><!-- /.blog-card-two -->
+                            </div><!-- /.col-md-6 -->
+                            <div class="col-md-6">
+                                <div class="blog-card-two wow fadeInUp" data-wow-duration='1500ms' data-wow-delay='700ms'>
+                                    <div class="blog-card-two__image">
+                                        <img src="assets/images/blog/blog-2-8.jpg" alt="ny leftovers in the kitchen?. Touch base that's mint, well">
+                                        <a href="blog-details-right.php" class="blog-card-two__hover">
+                                            <span class="sr-only">ny leftovers in the kitchen?. Touch base that's mint, well</span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--1"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--2"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--3"></span>
+                                            <span class="blog-card-two__hover__box blog-card-two__hover__box--4"></span>
+                                        </a><!-- /.blog-card-two-two__hover -->
+                                    </div><!-- /.blog-card-two__image -->
+                                    <div class="blog-card-two__content">
+                                        <h3 class="blog-card-two__title"><a href="blog-details-right.php">ny leftovers in the kitchen?. Touch base that's mint, well</a></h3><!-- /.blog-card-two__title -->
+                                        <ul class="list-unstyled blog-card-two__meta">
+                                            <li>
+                                                <a href="#">
+                                                    <span class="blog-card-two__meta__icon">
+                                                        <i class="icon-user"></i>
+                                                    </span>
+                                                    by Admin
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="blog-card-two__meta__icon">
+                                                        <i class="icon-comments"></i>
+                                                    </span>
+                                                    2 Comments
+                                                </a>
+                                            </li>
+                                        </ul><!-- /.list-unstyled blog-card-two__meta -->
+                                        <div class="blog-card-two__date">
+                                            <span class="blog-card-two__date__day">25</span>
+                                            <span class="blog-card-two__date__month">june</span>
+                                        </div><!-- /.blog-card-two__date -->
+                                    </div><!-- /.blog-card-two__content -->
+                                </div><!-- /.blog-card-two -->
+                            </div><!-- /.col-md-6 -->
+                            <div class="col-12">
+                                <ul class="post-pagination">
+                                    <li>
+                                        <a href="#"><span class="post-pagination__icon"><i class="icon-arrow-left-2"></i></span></a>
+                                    </li>
+                                    <li>
+                                        <a href="#">01</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">02</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">03</a>
+                                    </li>
+                                    <li class="active">
+                                        <a href="#"><span class="post-pagination__icon"><i class="icon-arrow-right-2"></i></span></a>
+                                    </li>
+                                </ul><!-- /.post-pagination -->
+                            </div><!-- /.col-12 -->
+                        </div><!-- /.row -->
+                    </div><!-- /.col-lg-8 -->
+                    <div class="col-lg-4">
+                        <div class="sidebar">
+                            <aside class="widget-area">
+                                <div class="sidebar__form sidebar__single">
+                                    <h4 class="sidebar__title sidebar__form__title">search here</h4><!-- /.sidebar__title -->
+                                    <form action="#" class="sidebar__search">
+                                        <input type="text" placeholder="Search Here" />
+                                        <button type="submit" aria-label="search submit" class="sidebar__search__icon">
+                                            <i class="icon-search"></i>
+                                        </button>
+                                    </form><!-- /.sidebar__search -->
+                                </div><!-- /.sidebar__form sidebar__single -->
+                                <div class="sidebar__posts-wrapper sidebar__single">
+                                    <h4 class="sidebar__title sidebar__posts-title">Latest posts</h4><!-- /.sidebar__title -->
+                                    <ul class="sidebar__posts list-unstyled">
+                                        <li class="sidebar__posts__item">
+                                            <div class="sidebar__posts__image">
+                                                <img src="assets/images/blog/lp-1-1.jpg" alt="Latest posts">
+                                            </div><!-- /.sidebar__posts__image -->
+                                            <div class="sidebar__posts__content">
+                                                <div class="sidebar__posts__meta"><a href="#">
+                                                        <span class="sidebar__posts__meta__icon">
+                                                            <i class="icon-user"></i>
+                                                        </span><!-- /.sidebar__posts__meta__icon -->
+                                                        By Admin</a></div><!-- /.sidebar__posts__date -->
+                                                <h4 class="sidebar__posts__title"><a href="blog-details-right.php">There are many vario ns of
+                                                        passages of</a></h4><!-- /.sidebar__posts__title -->
+                                            </div><!-- /.sidebar__posts__content -->
+                                        </li>
+                                        <li class="sidebar__posts__item">
+                                            <div class="sidebar__posts__image">
+                                                <img src="assets/images/blog/lp-1-2.jpg" alt="Latest posts">
+                                            </div><!-- /.sidebar__posts__image -->
+                                            <div class="sidebar__posts__content">
+                                                <div class="sidebar__posts__meta"><a href="#">
+                                                        <span class="sidebar__posts__meta__icon">
+                                                            <i class="icon-user"></i>
+                                                        </span><!-- /.sidebar__posts__meta__icon -->
+                                                        By Admin</a></div><!-- /.sidebar__posts__date -->
+                                                <h4 class="sidebar__posts__title"><a href="blog-details-right.php">Those Options Are Already
+                                                        Baked In With</a></h4><!-- /.sidebar__posts__title -->
+                                            </div><!-- /.sidebar__posts__content -->
+                                        </li>
+                                        <li class="sidebar__posts__item">
+                                            <div class="sidebar__posts__image">
+                                                <img src="assets/images/blog/lp-1-3.jpg" alt="Latest posts">
+                                            </div><!-- /.sidebar__posts__image -->
+                                            <div class="sidebar__posts__content">
+                                                <div class="sidebar__posts__meta"><a href="#">
+                                                        <span class="sidebar__posts__meta__icon">
+                                                            <i class="icon-user"></i>
+                                                        </span><!-- /.sidebar__posts__meta__icon -->
+                                                        By Admin</a></div><!-- /.sidebar__posts__date -->
+                                                <h4 class="sidebar__posts__title"><a href="blog-details-right.php">Spinning Our Wheels Product
+                                                        Market Fit Pre</a></h4><!-- /.sidebar__posts__title -->
+                                            </div><!-- /.sidebar__posts__content -->
+                                        </li>
+                                    </ul><!-- /.sidebar__posts list-unstyled -->
+                                </div><!-- /.sidebar__posts-wrapper sidebar__single -->
+                                <div class="sidebar__categories-wrapper sidebar__single">
+                                    <h4 class="sidebar__title">Categories</h4><!-- /.sidebar__title -->
+                                    <ul class="sidebar__categories list-unstyled">
+                                        <li><a href="blog-details-right.php" class="mediox-btn">Jhealth care <span>(4)</span></a></li>
+                                        <li><a href="blog-details-right.php" class="mediox-btn">medical service <span>(2)</span></a></li>
+                                        <li><a href="blog-details-right.php" class="mediox-btn">neurology <span>(6)</span></a></li>
+                                        <li><a href="blog-details-right.php" class="mediox-btn">successful surgery <span>(9)</span></a></li>
+                                        <li><a href="blog-details-right.php" class="mediox-btn">mediox care <span>(10)</span></a></li>
+                                    </ul><!-- /.sidebar__categories list-unstyled -->
+                                </div><!-- /.sidebar__categories-wrapper sidebar__single -->
+                                <div class="sidebar__tags-wrapper sidebar__single">
+                                    <h4 class="sidebar__title">Tags</h4><!-- /.sidebar__title -->
+                                    <div class="sidebar__tags">
+                                        <a href="blog-details-right.php" class="mediox-btn">medical</a>
+                                        <a href="blog-details-right.php" class="mediox-btn">health care</a>
+                                        <a href="blog-details-right.php" class="mediox-btn">mediox</a>
+                                        <a href="blog-details-right.php" class="mediox-btn">surgery</a>
+                                        <a href="blog-details-right.php" class="mediox-btn">dental cate</a>
+                                        <a href="blog-details-right.php" class="mediox-btn">orthopedics</a>
+                                    </div><!-- /.sidebar__tags -->
+                                </div><!-- /.sidebar__tags-wrapper sidebar__single -->
+                                <div class="sidebar__comments-wrapper sidebar__single">
+                                    <h4 class="sidebar__title">Comments</h4><!-- /.sidebar__title -->
+                                    <ul class="sidebar__comments list-unstyled">
+                                        <li>
+                                            <span class="sidebar__comments__icon">
+                                                <i class="icon-speech-bubble"></i>
+                                            </span><!-- /.sidebar__comments__icon -->
+                                            <h6 class="sidebar__comments__title"><a href="blog-details-right.php">Neque porro est qui dolorem
+                                                    ipsum quia quaed inventor</a></h6><!-- /.sidebar__comments__title -->
+                                        </li>
+                                        <li>
+                                            <span class="sidebar__comments__icon">
+                                                <i class="icon-speech-bubble"></i>
+                                            </span><!-- /.sidebar__comments__icon -->
+                                            <h6 class="sidebar__comments__title"><a href="blog-details-right.php">I need to pee and then go to
+                                                    another meeting we just need</a></h6><!-- /.sidebar__comments__title -->
+                                        </li>
+                                        <li>
+                                            <span class="sidebar__comments__icon">
+                                                <i class="icon-speech-bubble"></i>
+                                            </span><!-- /.sidebar__comments__icon -->
+                                            <h6 class="sidebar__comments__title"><a href="blog-details-right.php">A tentative event rundown is
+                                                    attached for your reference</a></h6><!-- /.sidebar__comments__title -->
+                                        </li>
+                                    </ul><!-- /.sidebar__comments list-unstyled -->
+                                </div><!-- /.sidebar__comments-wrapper sidebar__single -->
+                            </aside><!-- /.widget-area -->
+                        </div><!-- /.sidebar -->
+                    </div><!-- /.col-lg-4 -->
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </section><!-- /.blog-page blog-page--grid blog-page--sidebar section-space -->
+
+<?php require_once('parts/header/sidebar.php'); ?>
+<?php require_once('parts/footer/footer-one.php'); ?>

@@ -1,0 +1,12 @@
+<?php $head_title = "About || Mediox || Medical & Healthcare PHP Template" ?>
+<?php $body_class="custom-cursor"?>
+<?php
+  $home = true;
+?>
+<!-- Header Here -->
+<?php require_once('parts/header/header-four.php'); ?>
+
+
+
+<?php require_once('parts/header/sidebar.php'); ?>
+<?php require_once('parts/footer/footer-one.php'); ?>
